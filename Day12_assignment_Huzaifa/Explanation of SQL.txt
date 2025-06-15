@@ -1,1 +1,14 @@
+SQL (Structured Query Language) is a programming language used to manage and work with data stored in a database.SQL helps you store, find, update, and delete data in a database.
 
+Purpose in Web Development:
+In web development, SQL is used to:
+
+Store data (like user info, products, messages)
+
+Retrieve data (show data on webpages)
+
+Update data (change existing info)
+
+Delete data (remove old or unwanted info)
+
+Websites and apps use SQL to connect to databases and handle the data that users see or interact with. It's essential for building dynamic and data-driven websites.
